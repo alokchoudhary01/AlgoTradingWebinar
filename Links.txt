@@ -1,0 +1,41 @@
+Algorithmic Trading?
+https://twitter.com/AlokChoudhory/status/1172324686111232001?s=20
+
+What is an Algorithm?
+https://twitter.com/AlokChoudhory/status/1172322186926817280?s=20
+
+Anaconda Navigator is good tool for Data Science work
+https://twitter.com/AlokChoudhory/status/1160431175116050432?s=20
+
+Python coding to see OHLC:
+https://twitter.com/AlokChoudhory/status/1168551079283322882?s=20
+
+Read Nifty/Banknifty csv in Python | Kaggle:
+https://twitter.com/AlokChoudhory/status/1164162435445452800?s=20
+
+How to read Nifty data and plot basic chart
+https://twitter.com/AlokChoudhory/status/1161902922331906050?s=20
+
+How to get Banknifty Index quote in python
+https://twitter.com/AlokChoudhory/status/1161581964517752833?s=20
+
+Yes Bank Order Placed:
+https://twitter.com/AlokChoudhory/status/1177590128484601858?s=20
+
+Backtesting Hello World:
+https://twitter.com/AlokChoudhory/status/1164951263726804992?s=20
+
+Backtesting in Jupyter's VPython | Apple Data:
+https://twitter.com/AlokChoudhory/status/1163494296806289408?s=20
+
+
+How to install and setup Amibroker Database:
+https://twitter.com/AlokChoudhory/status/1170587995981746176?s=20
+
+Technical Analysis using Amibroker:
+https://twitter.com/AlokChoudhory/status/1170653642279407621?s=20
+
+Encryption Logic VB.NET codding for 5Paisa API:
+https://twitter.com/AlokChoudhory/status/1169551029920092162?s=20
+
+
